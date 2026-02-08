@@ -58,7 +58,7 @@ A powerful automation toolkit for Linux and Android Termux that simplifies syste
 ⚙️ Installation & Usage
 1️⃣ Clone Repository
 
-git clone https://github.com/YourUsername/linux-termux-toolkit.git
+git clone (https://github.com/AriProject9787/linuxAutomationCheck)
 cd linux-termux-toolkit
 
 2️⃣ Install Dependencies
