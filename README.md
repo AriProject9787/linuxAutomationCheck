@@ -70,7 +70,7 @@ A powerful automation toolkit for **Linux** and **Android Termux** that simplifi
 
 ```bash
 git clone https://github.com/AriProject9787/linuxAutomationCheck
-cd linux-termux-toolkit
+cd linuxAutomationCheck
 ```
 
 ### 2. Install Required Dependencies
