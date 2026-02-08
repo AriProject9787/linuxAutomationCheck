@@ -1,0 +1,43 @@
+{
+    
+    "cmatrix": "Matrix-style terminal animation",
+    "sl": "Steam locomotive animation",
+    "cowsay": "ASCII speech bubble generator",
+    "toilet": "ASCII text banners",
+    "git": "Version control system",
+    "apache2": "Web server (Apache HTTPD)",
+
+    
+    "curl": "Transfer data from or to a server (URL requests)",
+    "wget": "Non-interactive network downloader",
+    "python": "Python interpreter (install latest version)",
+    "nodejs": "JavaScript runtime for development",
+    "vim": "Advanced command-line text editor",
+    "nano": "Beginner-friendly terminal text editor",
+    "make": "Utility for building and compiling code",
+    "gcc": "GNU C compiler for C/C++ programs",
+    "openjdk-17-jdk": "Java Development Kit (JDK) for Java apps",
+
+    
+    "figlet": "Large characters banner generator",
+    "lolcat": "Rainbow color output for terminal text",
+    "neofetch": "System info with ASCII logo",
+    "htop": "Interactive process viewer (like top)",
+    "btop": "Modern resource monitor with fancy UI",
+    "asciiquarium": "Aquarium animation in ASCII art",
+    "boxes": "Draw ASCII art boxes around text",
+    "fortune": "Displays random quotes or proverbs",
+    "ponysay": "Like cowsay, but with ponies",
+    "screenfetch": "System information script (like neofetch)",
+    "ncdu": "Disk usage viewer (ncurses-based)",
+    "ranger": "Terminal file manager with VI-like bindings",
+
+   
+    "nmap": "Network scanner for open ports and devices",
+    "hydra": "Login cracker for various protocols",
+    "sqlmap": "SQL injection vulnerability detector",
+    "whois": "Domain and IP information lookup",
+    "dnsutils": "Tools for querying DNS servers (like dig)",
+    "aircrack-ng": "Wireless password cracking suite",
+    "tcpdump": "Network packet analyzer"
+}
